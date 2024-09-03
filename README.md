@@ -1,6 +1,6 @@
 **Whale Detection Robot**
 
-Preparing backend a website for traders marketspy.au
+Preparing backend for a website for traders marketspy.au
 
 **V.1 Learnings:**
 - Solana Blockchain working mechanism

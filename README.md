@@ -24,5 +24,5 @@ Preparing backend for a website for traders marketspy.au
 **V.2 Upcoming Improvements**
 - Real Price Data
 - Unknown Token Information
-- Heliues RPC improvement
+- Helius RPC improvement
 - Updating "block_info" request amount to decrease compute time

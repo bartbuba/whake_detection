@@ -1,5 +1,6 @@
-Whale Detection Robot
+**Whale Detection Robot**
 
+Preparing backend a website for traders marketspy.au
 
 **V.1 Learnings:**
 - Solana Blockchain working mechanism
@@ -20,7 +21,7 @@ Whale Detection Robot
 - Dog With Hat
 
 
-**##V.2 Upcoming Improvements**
+**V.2 Upcoming Improvements**
 - Real Price Data
 - Unknown Token Information
 - Heliues RPC improvement

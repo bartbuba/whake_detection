@@ -6,7 +6,7 @@ Preparing backend for a website for traders marketspy.au
 - Solana Blockchain working mechanism
 - Solana Library
 - Working with Solana Json
-- Returning data to websocket
+- Returning dataframe to websocket
 
 **Current Detecting Tokens**
 - Wrapped SOL
